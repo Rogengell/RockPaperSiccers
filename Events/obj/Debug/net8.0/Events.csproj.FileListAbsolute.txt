@@ -1,0 +1,11 @@
+F:\Code for Class\RockPaperSiccers\Events\bin\Debug\net8.0\Events.deps.json
+F:\Code for Class\RockPaperSiccers\Events\bin\Debug\net8.0\Events.dll
+F:\Code for Class\RockPaperSiccers\Events\bin\Debug\net8.0\Events.pdb
+F:\Code for Class\RockPaperSiccers\Events\obj\Debug\net8.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code for Class\RockPaperSiccers\Events\obj\Debug\net8.0\Events.AssemblyInfoInputs.cache
+F:\Code for Class\RockPaperSiccers\Events\obj\Debug\net8.0\Events.AssemblyInfo.cs
+F:\Code for Class\RockPaperSiccers\Events\obj\Debug\net8.0\Events.csproj.CoreCompileInputs.cache
+F:\Code for Class\RockPaperSiccers\Events\obj\Debug\net8.0\Events.dll
+F:\Code for Class\RockPaperSiccers\Events\obj\Debug\net8.0\refint\Events.dll
+F:\Code for Class\RockPaperSiccers\Events\obj\Debug\net8.0\Events.pdb
+F:\Code for Class\RockPaperSiccers\Events\obj\Debug\net8.0\ref\Events.dll

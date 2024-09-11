@@ -1,0 +1,12 @@
+F:\Code for Class\RockPaperSiccers\Monitoring\bin\Debug\net8.0\Monitoring.deps.json
+F:\Code for Class\RockPaperSiccers\Monitoring\bin\Debug\net8.0\Monitoring.dll
+F:\Code for Class\RockPaperSiccers\Monitoring\bin\Debug\net8.0\Monitoring.pdb
+F:\Code for Class\RockPaperSiccers\Monitoring\obj\Debug\net8.0\Monitoring.csproj.AssemblyReference.cache
+F:\Code for Class\RockPaperSiccers\Monitoring\obj\Debug\net8.0\Monitoring.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code for Class\RockPaperSiccers\Monitoring\obj\Debug\net8.0\Monitoring.AssemblyInfoInputs.cache
+F:\Code for Class\RockPaperSiccers\Monitoring\obj\Debug\net8.0\Monitoring.AssemblyInfo.cs
+F:\Code for Class\RockPaperSiccers\Monitoring\obj\Debug\net8.0\Monitoring.csproj.CoreCompileInputs.cache
+F:\Code for Class\RockPaperSiccers\Monitoring\obj\Debug\net8.0\Monitoring.dll
+F:\Code for Class\RockPaperSiccers\Monitoring\obj\Debug\net8.0\refint\Monitoring.dll
+F:\Code for Class\RockPaperSiccers\Monitoring\obj\Debug\net8.0\Monitoring.pdb
+F:\Code for Class\RockPaperSiccers\Monitoring\obj\Debug\net8.0\ref\Monitoring.dll
